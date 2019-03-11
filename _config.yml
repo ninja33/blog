@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://ninja33.github.io/blog
+url: https://www.laohuang.net
 date_format: "ordinal"
 title: 老黄老巢
 subtitle: "一直在折腾，偶尔发发呆"
@@ -10,7 +10,7 @@ description: "老黄的个人博客"
 keywords: 老黄, Ninja Huang, Anki, English
 timezone: Asia/Shanghai
 encoding: "utf-8"
-side_bar_repo_limit: 5
+side_bar_repo_limit: 3
 
 # ---------------- #
 #      Author      #
@@ -67,7 +67,7 @@ lsi: false
 quiet: false
 excerpt_separator: "\n\n"
 permalink: /:year:month:day/:title/
-gems:
+plugins:
     - jekyll-github-metadata
     - rouge
 #     - jekyll-html-pipeline
