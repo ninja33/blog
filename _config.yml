@@ -104,8 +104,8 @@ gitment:
 gitalk:
     owner: ninja33
     repo: blog-comments
-    clientID: 
-    clientSecret: 
+    clientID: 05a8dff08bae58624fe3
+    clientSecret: 817c974f58e3f27d65cd1f24e331eb8488890c6e
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
