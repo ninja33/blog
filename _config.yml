@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://www.laohuang.net
+url: https://ninja33.github.io/blog
 date_format: "ordinal"
 title: 老黄老巢
 subtitle: "一直在折腾，偶尔发发呆"
