@@ -1,27 +1,19 @@
-- sitename: GitHub
-  name: mzlogin
-  url: https://github.com/mzlogin
+- sitename: E-Mail
+  name: Ninja Huang
+  url: mailto:zhenyu.huang@qq.com
 
-- sitename: 掘金
-  name: mzlogin
-  url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
-
-- sitename: LinkedIn
-  name: mazhuang
-  url: https://www.linkedin.com/in/mazhuang
+  - sitename: GitHub
+  name: ninja33
+  url: https://github.com/ninja33
 
 - sitename: 博客
-  name: 码志
-  url: http://mazhuang.org
-
-- sitename: 微博
-  name: mzlogin
-  url: http://weibo.com/mzlogin
+  name: 老黄老巢
+  url: http://www.laohuang.net
 
 - sitename: 知乎
-  name: mzlogin
-  url: http://www.zhihu.com/people/mzlogin
+  name: Ninja Huang
+  url: http://www.zhihu.com/people/huangzhenyu
 
-- sitename: 豆瓣
-  name: 壮哥不胖
-  url: http://www.douban.com/people/freedim
+- sitename: QQ群
+  name: Running and Reading（群号 25091023）
+  url: https://jq.qq.com/?_wv=1027&k=5fq67hh

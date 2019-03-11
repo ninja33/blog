@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://www.laohuang.net
 date_format: "ordinal"
 title: 老黄老巢
 subtitle: "一直在折腾，偶尔发发呆"
 description: "老黄的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+keywords: 老黄, Ninja Huang, Anki, English
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Ninja Huang
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: ninja33
+location: Shanghai, China
+email: zhenyu.huang@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -34,13 +34,13 @@ navs:
     href: /categories/
     label: 分类
 
-#   -
-#     href: /archives/
-#     label: 归档
+   -
+     href: /archives/
+     label: 归档
 
-  -
-    href: /wiki/
-    label: 维基
+#  -
+#    href: /wiki/
+#    label: 维基
 
   -
     href: /links/
@@ -66,7 +66,7 @@ paginate: 10
 lsi: false
 quiet: false
 excerpt_separator: "\n\n"
-permalink: /:year/:month/:day/:title/
+permalink: /:year:month:day/:title/
 gems:
     - jekyll-github-metadata
     - rouge
@@ -78,10 +78,10 @@ gems:
 #     - jekyll-mentions
 collections:
     wiki:
-        output: true
+        output: false
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: ninja33/blog
 
 # ---------------- #
 #      Comments    #
@@ -95,17 +95,17 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: ninja33
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: 
+        client_secret: 
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: ninja33
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: 
+    clientSecret: 
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
@@ -121,5 +121,5 @@ simple_jekyll_search:
 # ---------------- #
 #    Analytics     #
 # ---------------- #
-google:
-    analytics_id: UA-80669434-1
+# google:
+#     analytics_id: UA-80669434-1
