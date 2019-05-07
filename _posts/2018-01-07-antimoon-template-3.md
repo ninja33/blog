@@ -50,7 +50,9 @@ date: 2018-01-07 20:30:58
 
 ## 下载链接
 
-链接：[Antimoon.3.0](/files/Antimoon.3.0.zip) 
+（2019/05/07更新）更新到4.0版本，支持一词多义的镂空：
+
+链接：[Antimoon.4.0](/files/Antimoon.4.0.zip) 
 
 （2018/01/26更新）增加用于wordquery插件的collins和vocab mdx文件下载： 
 
