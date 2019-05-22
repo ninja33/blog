@@ -7,14 +7,26 @@ keywords: anki, extension
 date: 2016-08-17 01:21:43
 ---
 
+[2019年2月更新]：Anki划词助手目前已经停止更新，想用浏览器配合anki划词的同学，可以关注作者的另一款插件《[在线词典助手](https://www.laohuang.net/20180213/online-dictionary-helper/)》，同时支持Chrome和Firefox版本，对于原句的摘取，词组的识别更好更准确
+
+- 谷歌版下载地址：[谷歌商店](https://chrome.google.com/webstore/detail/online-dictionary-helper/lppjdajkacanlmpbbcdkccjkdbpllajb?hl=en)
+
+- 火狐版下载地址：[火狐商店](https://addons.mozilla.org/en-US/firefox/addon/online-dictionary-helper/)
+
+
+- 离线版下载地址：[老黄老巢](https://www.laohuang.net/20190523/odh-offline-package/)
+
+---
+
 英语学习者在新闻网站或者社交媒体上进行增量阅读(Incremental Reading)或者沉浸式阅读(Immersion Reading)时，往往需要能够随手翻译生词帮助理解，而阅读过后，又希望能将刚才阅读时遇到的生词和上下文语句作为笔记保存，以供日后复习。
 
 Anki本身提供了不错的间隔式复习功能，但是制卡的过程略微繁琐。Anki划词制卡助手，就是为了帮助学习者在阅读的同时，将生词，释义，音标，语音音频和上下文例句一键保存并制作成Anki卡片，以供日后复习。 下面按步骤列出了Anki划词制卡助手的安装过程。
 
 ## 安装插件
 
-1.  安装ankiconnect 插件(需2.0版本)，然后重启Anki。 2.0版本的anki下载地址和安装方法详见另一片文章: [《Anki划词制卡助手》配套AnkiConnect.py文件](http://www.laohuang.net/20160817/ankiconnect-py-file/)
-2.  安装Chrome插件 [Anki划词制卡助手](https://chrome.google.com/webstore/detail/anki%E5%88%92%E8%AF%8D%E5%88%B6%E5%8D%A1%E5%8A%A9%E6%89%8B/ajencmdaamfnkgilhpgkepfhfgjfplnn?hl=zh-CN)，按Chrome浏览器提示安装。
+- 安装ankiconnect 插件，然后重启Anki。 ankiconnect下载地址和安装方法详见另一片文章: [《Anki划词制卡助手》配套AnkiConnect.py文件](http://www.laohuang.net/20160817/ankiconnect-py-file/)
+
+- 安装Chrome插件 [Anki划词制卡助手](https://chrome.google.com/webstore/detail/anki%E5%88%92%E8%AF%8D%E5%88%B6%E5%8D%A1%E5%8A%A9%E6%89%8B/ajencmdaamfnkgilhpgkepfhfgjfplnn?hl=zh-CN)，按Chrome浏览器提示安装。
 
 ## 选项设置
 

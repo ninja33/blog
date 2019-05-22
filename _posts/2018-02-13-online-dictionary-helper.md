@@ -24,9 +24,31 @@ date: 2018-02-13 00:01:02
 
 ## 下载地址
 
-- [谷歌插件下载地址](https://chrome.google.com/webstore/detail/anki-online-dictionary-he/lppjdajkacanlmpbbcdkccjkdbpllajb?hl=en)
+- 谷歌版下载地址：[谷歌商店](https://chrome.google.com/webstore/detail/online-dictionary-helper/lppjdajkacanlmpbbcdkccjkdbpllajb?hl=en)
 
-- [火狐扩展下载地址](https://addons.mozilla.org/en-US/firefox/addon/online-dictionary-helper/)
+- 火狐版下载地址：[火狐商店](https://addons.mozilla.org/en-US/firefox/addon/online-dictionary-helper/)
+
+- 离线版下载地址：[老黄老巢](https://www.laohuang.net/20190523/odh-offline-package/)
+
+## 安装Ankiconnect插件
+
+- 在Anki桌面版的菜单栏打开 工具(Tools)-->插件(Add-ons)-->浏览与安装(Browse & Install ...)
+
+  ![](/images/install_ankiconnect_01.jpg)
+
+- 输入Ankiconnect插件的安装代码：2055492159， 然后点击OK。待安装完毕后重启Anki
+
+  ![](/images/install_ankiconnect_02.jpg)
+
+- 注意事项：Ankiconnect插件在缺省情况下，是不允许重复制卡的(有相同的排序字段)，比如一个单词加入后，该单词如果有一词多义的情况，下一次划词就不能在加入该单词了。解决办法详见《[有关Ankiconnect重复制卡](https://www.laohuang.net/20180214/ankiconnect-dupe-card-issue/)》的文章。
+
+## 验证安装
+
+- 在谷歌或者火狐浏览器安装完插件，并且在Anki桌面版安装ankiconnect插件并重启Anki后，可以打开浏览器，进入在线词典助手的后台选项页，验证安装。 
+
+- 在选项页选择 输出选项--> 数据导出下拉菜单，选择Ankiconnect --> 如果在旁边显示 “已连接(+ankiconnect版本号)”，则表明浏览器插件与ankiconnect连接成功。
+
+  ![](/images/odh_anki_option_01.jpg)
 
 ## 使用简介
 
@@ -39,7 +61,7 @@ date: 2018-02-13 00:01:02
 5. (可选操作) 在Ankiconnect已经安装，并且Anki已经打开的情况下，可在选项页设定Anki牌组、模板，以及用于放置 **单词**、**释义**、**原句**的字段名称。
 6. (可选操作) 在上述弹窗中，点击每个释义右上角的绿色**(+)**图标，可进行Anki制卡。
 
-  下面左侧是一个典型的在线划词助手的划词画面，点击展开大图后可以看见很多细节：
+下面左侧是一个典型的在线划词助手的划词画面，点击展开大图后可以看见很多细节：
 
   ![](/images/anki_001.png)
 
