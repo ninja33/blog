@@ -89,8 +89,7 @@
     {% when 'gitalk' %}
         <div id="gitalk-container"></div>
         <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-        <!--script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script-->
-        <script src="https://geektutu.github.io/hexo-theme-geektutu/js/gitalk.min.js"></script>
+        <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
         <script>
         var gitalk = new Gitalk({
             id: '{{ page.url | truncate: 50, '' }}',
